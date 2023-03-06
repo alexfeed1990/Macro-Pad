@@ -1018,4 +1018,22 @@ col3
 Text GLabel 7600 1750 1    50   Input ~ 0
 col4
 NoConn ~ 2150 2450
+Text GLabel 3350 3450 2    50   Input ~ 0
+col0
+Text GLabel 3350 3650 2    50   Input ~ 0
+col1
+Text GLabel 3350 3750 2    50   Input ~ 0
+col2
+Text GLabel 3350 2250 2    50   Input ~ 0
+col3
+Text GLabel 3350 2350 2    50   Input ~ 0
+col4
+Text GLabel 3350 2450 2    50   Input ~ 0
+row0
+Text GLabel 3350 2750 2    50   Input ~ 0
+row1
+Text GLabel 3350 2850 2    50   Input ~ 0
+row2
+Text GLabel 3350 4450 2    50   Input ~ 0
+row3
 $EndSCHEMATC
